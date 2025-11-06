@@ -1,6 +1,6 @@
 # Desktop Maze
 
-Here are the 3D print files for my desktop maze.
+Here are the 3D print files for my desktop maze. I've also included the FreeCAD design files. A maze can be built on any flat surface.
 
 There are three different posts; corner, edge and center. They fix together with small connectors.
 
@@ -15,7 +15,7 @@ It has the advantage that the maze doesn't have to be rectangular.
 
 ![PXL_20251013_181406406](https://github.com/user-attachments/assets/af723991-7c59-47ff-a585-4535c5f4ac49)
 
-This test maze was put together on a kitchen worktop only 40cm deep. 
+The test maze below was put together on a kitchen worktop only 40cm deep. 
 
 ![PXL_20251022_080345448 MP](https://github.com/user-attachments/assets/72969ca7-6e11-4964-95f7-d8c1eb69246e)
 
